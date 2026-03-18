@@ -1,5 +1,6 @@
 # Course and exercice on Satellite imagery analysis using Xarray and Dask
 
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Etienne-bdt/supaero-otsu-course/blob/main/ndsi.ipynb)
 [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/guillaumeeb/supaero-otsu-course/HEAD?urlpath=lab/tree/ndsi.ipynb)
 
 This course has been prepared for ISAE Supaero OTSU Cloud, Big Data and ML module.
